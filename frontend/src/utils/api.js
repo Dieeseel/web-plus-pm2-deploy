@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('http://api.sobolevskiy.mesto.nomorepartiesco.ru');
+  const api = new Api('https://api.sobolevskiy.mesto.nomorepartiesco.ru');
 
   export default api;
